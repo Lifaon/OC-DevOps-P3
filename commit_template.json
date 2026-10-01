@@ -1,0 +1,14 @@
+[
+  { "Name": "Fonctionnalité", "Type": "✨ feat", "Description": "Ajout d'une fonctionnalité" },
+  { "Name": "Correction", "Type": "🐛 fix", "Description": "Correction d'un bug" },
+  { "Name": "Documentation", "Type": "📝 docs", "Description": "Documentation uniquement" },
+  { "Name": "Style", "Type": "💎 style", "Description": "Formatage, sans changement de logique" },
+  { "Name": "Refactorisation", "Type": "🔨 refactor", "Description": "Ni correction ni ajout de fonctionnalité" },
+  { "Name": "Performance", "Type": "⚡ perf", "Description": "Amélioration des performances" },
+  { "Name": "Tests", "Type": "✅ test", "Description": "Ajout ou correction de tests" },
+  { "Name": "Build", "Type": "🚀 build", "Description": "Maven/Gradle, dépendances, etc" },
+  { "Name": "CI", "Type": "⚙️ ci", "Description": "Pipelines d'intégration continue" },
+  { "Name": "Maintenance", "Type": "🧹 chore", "Description": "Tâches mineures sans impact sur le code" },
+  { "Name": "Sécurité", "Type": "🔒 security", "Description": "Correctif ou durcissement de sécurité" },
+  { "Name": "Annulation", "Type": "↩️ revert", "Description": "Annule un commit précédent" }
+]
